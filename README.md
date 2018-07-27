@@ -1,6 +1,5 @@
 # zeromq was required to install Juputer PHP kernel
 
-
 ./setup-zeromq.sh
 
 
